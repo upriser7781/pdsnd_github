@@ -199,7 +199,6 @@ def user_stats(df,city):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-    print("this display the year!")
 
 # In[10]:
 
