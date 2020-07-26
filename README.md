@@ -7,7 +7,7 @@ In this project, I wrote Python code to import US bike share data and answer int
 I also wrote a script that takes in raw input to create an interactive experience in the project to present these statistics. 
 
 ### Files used
-This repo consist of .py file.
+This repo consist of .py file as i've written a python code, it is easier to access .py file.
 
 ### Credits
 These are the links i used to complete my project:
