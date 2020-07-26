@@ -204,10 +204,7 @@ def user_stats(df,city):
 
 
 def display_raw_data(df):
-    """Displays raw data on user request.
-    Args:
-        (DataFrame) df - Pandas DataFrame containing city data filtered by month and day
-    """
+    
     print(df.head())
     next = 0
     while True:
