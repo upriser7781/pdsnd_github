@@ -9,9 +9,7 @@ I also wrote a script that takes in raw input to create an interactive experienc
 ### Files used
 This repo consist of .py file as i've written a python code, it is easier to access .py file. i used the following files for the project:
   - washington.csv
-
   - new_york_city.csv
-
   - chicago.csv
 
 ### Credits
