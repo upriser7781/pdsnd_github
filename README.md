@@ -2,17 +2,22 @@
 
 ### Exploring US Bikeshare Data
 
-#### Description
+#### Description:
 In this project, I wrote Python code to import US bike share data and answer interesting questions about it by computing descriptive statistics. 
 I also wrote a script that takes in raw input to create an interactive experience in the project to present these statistics. 
 
-### Files used
+### Files used:
 This repo consist of .py file as i've written a python code, it is easier to access .py file. i used the following files for the project:
   - washington.csv
   - new_york_city.csv
   - chicago.csv
 
-### Credits
+### Requirements: 
+This program was written in Python and relies on the following libraries:
+  - pandas
+  - numpy
+
+### Credits:
 These are the links i used to complete my project:
 
 1. TypeError: can only concatenate str (not “numpy.int64”) to str
