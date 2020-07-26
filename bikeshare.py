@@ -204,11 +204,14 @@ def user_stats(df,city):
 
 
 def display_raw_data(df):
-    
+    """Displays raw data on user request.
+    Args:
+        (DataFrame) df - Pandas DataFrame containing city data filtered by month and day
+    """
     print(df.head())
     next = 0
     while True:
-        view_raw_data = input('\nWould you like to view next five row of raw data? Enter yes or no.\n')
+        view_raw_data = input('\nWould you like to view next five row of raw data? Enter Yes or No.\n')
         if view_raw_data.lower() != 'yes':
             return
         next = next + 5
